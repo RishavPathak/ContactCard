@@ -64,7 +64,7 @@ export class AddContact extends Component {
                             className='save-buton'
                             onClick={this.handleSaveButton}
                         >
-                            Save
+                            Save the Form
                    </Button>
                     </Form>
                 </Card>
