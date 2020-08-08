@@ -1,0 +1,32 @@
+.contact-form-card{
+    width: 28%;
+    margin : 50px;
+    position: relative;   
+}
+
+.form-element{
+    margin:5px;
+    border: solid !important;
+    border-color: royalblue !important;
+    border-radius: 50px !important;
+    margin-bottom: 2px !important;
+    height: 50px;
+}
+
+
+.form-submit-button{
+    font-weight: bold;
+      padding: 8px;
+      margin:5px;
+      border-radius: 10px;
+      color: #fff;
+      background-color:#03A9F4;
+      border-color: #03A9F4;
+      border:none !important;
+      outline: none !important;
+      position: absolute;
+      right:0px;
+
+}
+
+

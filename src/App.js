@@ -1,14 +1,13 @@
 import React from 'react';
 import './App.css';
-import Navigationbar from './components/Common/Navigationbar/Navigationbar';
-import AddContact from './components/AddContact/AddContact';
+import ContactForm from './Component/ContactForm/ContactForm';
+
 
 
 function App() {
   return (
     <div className="App">
-      <Navigationbar />
-      <AddContact />
+      <ContactForm />
     </div>
   );
 }
